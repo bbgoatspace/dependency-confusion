@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "test": "^3.3.0",
-    "nonexisting-dependency": "1.0.0"
+    "nonexisting-dependency": "1.0.0",
+    "@jest/expect": "30.2.0"
   }
 }
