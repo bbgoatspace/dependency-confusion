@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "test": "^3.3.0",
     "nonexisting-dependency": "1.0.0"
   }
 }
